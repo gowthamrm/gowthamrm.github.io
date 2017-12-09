@@ -5,3 +5,7 @@ db.json
 node_modules/
 public/
 .deploy*/
+
+my-site/node_modules
+my-site/tmp/*
+my-site/dist
